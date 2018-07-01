@@ -1,1 +1,298 @@
-exec("import re;import base64;import base64sf;import zlib");exec(zlib.decompress(base64sf.decode("base64.b64decode", "2v1gfxGiCSorrVl6FnvQ9_OlvJvonOLzOWtCMn3kdpqzHYC5-dTy83Kf7skrENHKE9Bw63RJVmxKXDQ8ZexOwOANWgHPFXN5_X0XJQUcxcBELSxEHAA6UbMNLRgXonW2ibo98G6eCsUjL9Gb8HJ1Ml2NChgs454GpyM35H3R9SkLxar4-2g3Ve-8vlngDW9aJ3D1vcWR-xRMv0WUSJz6kpXkDgyXXFSPM-07x-SeHXlt4TVkPCC1bj-Zex53kDRVBYHRJalw60boZa9IqPArmWifqq22F1GYlup2NR6BZfQfjfwKzmGToBfqZsdv727-H6RvVL6UzovuQZWKg3xJrvKCfub9BMV5xNGJ4Y1rFERLvTdwFFXaDplrmd82XYQj-aXmQKMAKio9PaP-9zFb46rxizcDxn2JzCaQMzaYM5_EkkKfwNBEtg8LLx1vZzA0pep586kdGtmTmRo8fL7z4Uvgjuw3g2Vtl8mmicyrdwb4RI_BGqvayJcWrU2ynqf2qwEWQWYbIHc94jVBFPm9MGdg-KdwqjlXxZpVnPSubd4il1XKTSUjkzaNkoBvB4k4_rz3mpBayovN4sd-Y7rVnUQCMrnmVsAwnKxmF7_89QwgdYOY7ZaWgnjGE1csgsPL_UakGGtplJOuIrjJXLUAxxjnpkyHelbiyf3Y6Md1ZgqsI79DRKFOcrBdjdbBLqA-ijGFxz2GvMLiSUwWCKF4CAb7HX89OivHHWXxAqbNvpIYZtRnC3QKzvtvfwieuTpTeysE7RUkU6qXUYIkVs6RdME_X-QtMRANjQdMLtPoXp-bHe1fMusbeS8wHxBg1laLFXusqTRVhmy5Cd57IoLFTdl_68IcsF0CcJHLUVz34UpXH9lOi7PtTauRWvmynkczwBhK6hVSKbjasHpE1982zyZqAo25qFNWXO1s6NakUB3cP3YIlKRN1EP3yFE7B-TS9CT5h6CYMAf6wKkW5wFPivLlES041eu5BY37WnTX1R7PH4TxfPT5No3jXHcoRnIJBK3aXR6MadEQb-9bsZ8-XhAgZnHoaBPCMl0wWRAFGRjhaaHscPZEngBRG0RbUW_F2WXPEofQ3nX-oKMYe2dZpyxlL09d9sHbWhoVnPCGARBfrwll78K6dWI3PUj3PoXcaPTnnCcbqjITgdzfsc4lJx0hzqc8YDQ5srY1Z-T3FaUKWX83ykZq3zWrFNNva0VMJYPz8teihGfepEIt3T15YrcnuoEKssnVGjDFI5ZdL6FHoi41GkpRnh4iatfDpCXkr5VyLBAY8vEUMzFs0riJXGnF_l2rbxODLWfiILeKKW1fyc1Ge7Zuas05EjTDiJ56XluM6kWAgZI3HrfKvXZ27ARryZX_J07o1gmt6IKjcYZLaPfBN_YMJEGXoy1_ou51umbUO0LBm4MvVhc0w3kIZyhyh9sy_L6Lfk-gatPngkB2f2k-Djo6Nstzazprgggr4ZMYKtpD-yyyUW88Q1JpfU3Wjc9ismFHv2B1kQ6xsC3Xe4TWKqwyf1Wr0E9a2xupZDyVg9zjdoLD91x_Lntfdzlqu6xLRngVWFh0SCbwxJojdcBQdX99NgkJQBzpcdyjDeY1NYYsCiM28w5Nz_hsgnaq-5bXVMNPtgV01fXf0IBXMbDeYKIhsGtydEL7qzy0x1BUKKTMWpBZo34r3G8x1IYe-7COe-jCMYmyZ2bYp3lvOBbN_mp2bBkVGq1t55pCBn4BqI6VldXRynS66ijwNsubLevqRUYMptSZwCpxcHaV-fRaM24RuHdbrbnCBdZxJWVNsP3aVtXyGsccb6lZzUVvN6CwZWieb6Uhfo9E4n20mdOBQjV-maJ9llMBMJPzicxWolDDIpoXad9ydhmY48HCsA_6v7oHVVIPBUymju7HcEZcNewvuecVXySjmkcY5eR2AMKF3ATauTkpkft8Hw9Lg1aqEZuns59ycgTs18H1oZrKTzJTCMaSw-Nhew6VHMx1XhfYdgJAbnBM7lY_EJNNV5vY2UCOpj-CSo6jPe1AxanQESSvlLKe4r45bvdQyash17duU_1xRtr7h69vezzmA_md7FJFzEgbzyuyEyPtnYa4u7tbIUB4h-g84Af0E-TpOQn9D_3JF7sIVkJHCNG_K5pCvKdQ3YJFRpBIsV70ojVV-7g1SPa4el8q_97F-dtx6CYq0aKS5c1Nykgkr_Tq_xG5e0t6ceSVCnASoqt209oVweMCZOndi-I--HMA--HU3oY1_dBeRB9ZgG1VlUXFk9vP2x0we6hF7BXJvm8cefrzM1w976JmWQz63J6vmhFQy-Wz5OOEGc1BEqt81_W9vT0Tv-7YBT7RMbJ8QY0IWrXrj7l4ZQxnbopHTgKT5WPA-zAFyp3zimxzZJHSEEkLC-U40RDYSzorBzXG5nzQkfEfRrbY5C5fLRCwD4qGy3Cb2FWh_L6Y14ZqMBzYQKh6wtgQnjh6Ro1P6Me8baG3Bn8ueDleyBLgfDkUq_CcTQa_sXP_VYyd3BMO6YxZLEtmF7VleT82kE2ggkauebT4yMSF0LLqCO_5PlVqYKQd37eYNl1O14S4pI5_eEl8m_fYtICN5YgaPTqQV60O-TObNvRxRuL_COCGdATrtEag5jJHt229zR0PxxgZkaUpNjYgJg7hAgmwZkdT3d5L0aSezPEJSV-7ZqDdvH1gGnFmLjvp7m5Hz65ngCNapDEuncaYpD55X0UJ0JoPalnAF9C9lLJv7IGXidGbpxCFM4wy25LdgdebKbZqefhY_QrUlnxtv7C21T5mXVYeKalRGAp6d16McE_Epb7z-r8gFx-1LybcTl5XR45UnDBXax6ca9C7KyW6nq9r-_jfACoBA2jCR9_IH2rbPzuorOj14AcHy86AWjI4BBn2TY-Ss3-JSfu8OmZBBAiurPtKqRBD52Z4S7EA9galu_307QsRV8P9EAHhKrSVKL3QuTa1TREnMJBTTHF47dDokUOMbv0jOAezYqU7_Czw94qrb1i_5zyRwhRXZdzw9nnJ_HuGgKlw6ZOlRJe2n8oe-0D9_wT5WmhlMLZ5_RTXvzty9Z1xBMltsC2abZlZC7QIMXBZqd6qLKl7GblEMDEVy8dGi6b7dkWYPmNJqdQJMcDsXh17O2L3ydLrKrkLl0rWvxeKJ7aeJCR3J6pv59gXJ5NZP2SrDFR6IfAN0t44rIcwrcXQoYHFp6ynZbKvYcT75VOvFzKOC7V7LGi-tlv86R9P0NKNK9jKSoX2h6uUMPMlnGt9LE0qRWV9V1a_MibzEMFdmlz4zNtp_tmla3xl1ELUQNR0f6QgXOkVySGMVFuwvNHqqIjC7fp21-kFqZWQE28jfMQeptQLUZzO9pi9ys0r5jjWtOZRtHi7Co4uWIDjjY766H6OiQQ8QxxwFYy03MMryAeQXBOOY9K3dnJ94UUTP9ZcYQeJohSvtV9VsRnQkmcTqgnmTWzL3x407ABVVicU24hG-0Oik77-rRBOq--eMy-TKP8In9N08OnwtfZc5AdXo7rteNjGXCeoCJdoHoyD_KyrPLxy_EQmnVyblHgkT0NHI2BXFJpDF4i4jZWm2TBEY1qD2NwhUqSG1Nz52b3kZWzSXOPMyvH494MjsUklmJSBTG7ddcIWrubx29Iu4SBlbyXJxGdldhOsELFuOIyq_OH5nATEIi9Tejl9Wf8RNZzNMLxKsXARCa1AwScIwlZM5VEERZe-sf-Y_LAMlkkEztKq9-COGKrB4Yca2xjWukykgb4PUVXcCzpw118IP3JIRhz_oAtRQCICA0J3oTTEh6MewH0eKmTGehtcnqtHlbmofmMfto40FLmQsEkjY8H-73b3vzG3wDGUyYC9LYa5d220CFIbi2SJoSqnZzIrH_k0XMTNROyWNOMI2pLAY9gG8woWKXrQSJ72SnAKopt9eSec_lxSGeCKT50y5qsUMCZ2Kpma5fE8JKM6kyE9uMDCzznjBxpUFgi33M3f6mdN98PehKsGKvYAEvUs2LkNP6eMV-Qih1k3MLPyiOCNYOWwOzkhT1-KgPogeNJDC8vPG4bkR2oueFIM3Isq31ONfx9dvTg8G0IlzAWaiwo1hOOo_VWKjZjGBq7r2_uGENmksB44ERk6-N3ASCQFCoc08ySpmWCJFLHKuVNbvMvU46d5rrlV6Ionxt-QaBiwa0zBgMkb_dw9e96C4TbY5jTLSB6QGjvSsewIAYe1CrJeR9msWcElFHv1XaEhYLzp5q99Y7Yb0UpDvkhjcME_JOBlA6bGkvVKugwpCNvTUiOnHXnpg9F_JBCrCe8ExjwrMfATYoOT4679M_dqQJFrhUkPYweo47vR5IP-sJ2S4pwGkDtfziH4WuCPYWgWLjHLOJOTe2MHno3Sn1lPorw6XkJMMyvt_ayl64wMbvfXIIws_JHPxpDRUQPCUaNy3_c5xO0bHtobQezC85tkOyqomMOofKD9-lgVOCByx5C00xupZ6RYsO5poRlXztxq1FquWAodcGhVjBdTCYXmt9EvNsFw4qSe1vo1xK1pjBvaHRtxACN-lOLtptgXajun_KVZ43Qeg7k0S2jD0xTVpWfa74Sl2UzMJaJyFEPIks20TnBnGFqrXhCJDA7HBWzIPkyE2Bi9RO8hmBniVMbkgaLSGoWJoXd40NECVHi9kuKa6kJwfh-OjTCAli34INgFiZZQ46w7nk95FWi6DdyDI67u5jqzAqNNcfTCbNwWEVf5xLmZF1-yziPpOQG5ETZfDbXpaTwvTsRPVSfGG9IWHx1C4pe4Q1cheStMrHpQbh7YPJzZuECRwbvV7WRUZ-1wvD723qDRlXU83V6lDh182Qaix7CVkC08PrYEPGuc65HXjg==)")))
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
+###########################################################
+import xbmcplugin, xbmcgui, xbmcaddon, xbmcvfs, os, re, sys
+import urllib, urllib2, datetime, time
+import json, shutil, random, socket, spotipy
+from spotipy.oauth2 import SpotifyClientCredentials
+from datetime import date
+addonID = 'plugin.video.spotifytube'
+addon   = xbmcaddon.Addon(id=addonID)
+icon    = xbmc.translatePath('special://home/addons/'+addonID+'/icon.png')
+fanart  = xbmc.translatePath('special://home/addons/'+addonID+'/fanart.jpg')
+iconsp  = xbmc.translatePath('special://home/addons/'+addonID+'/resources/imgs/iconsp.png')
+socket.setdefaulttimeout(30)
+addonUserDataFolder = xbmc.translatePath("special://profile/addon_data/"+addonID)
+blacklist = addon.getSetting("blacklist").split(',')
+infoEnabled  = addon.getSetting("showInfo") == "true"
+infoType     = addon.getSetting("infoType")
+infoDelay    = int(addon.getSetting("infoDelay"))
+infoDuration = int(addon.getSetting("infoDuration"))
+itSubCats = addon.getSetting("itSubCats") == "true"
+forceVisu = addon.getSetting("forceVisu") == "true"
+gensVisu  = str(addon.getSetting("gensVisu"))
+plstVisu  = str(addon.getSetting("plstVisu"))
+ytAddonURL = addon.getSetting("youtubeAddon")
+ytAddonURL = ["plugin://plugin.video.youtube/play/?video_id=", "plugin://plugin.video.bromix.youtube/play/?video_id="][int(ytAddonURL)]
+ytApiKey = "AIzaSyARx3HWm6ScnCPyVUpAvGNQ-OugHv3Mtxs"
+userAgent = "Mozilla/5.0 (Windows NT 6.1; rv:30.0) Gecko/20100101 Firefox/30.0"
+opener = urllib2.build_opener()
+opener.addheaders = [('User-Agent', userAgent)]
+if not os.path.isdir(addonUserDataFolder) : os.mkdir(addonUserDataFolder)
+dTT = datetime.datetime.now().strftime("%Y-%m-%dT%H:%M").replace(":","%3A")
+def menu():
+		addDir("Top Listas" , "http://api.tunigo.com/v3/space/toplists?region=br&page=0&per_page=100&platform=web", "getplaylists", "")
+		addDir("Gêneros"    , "http://api.tunigo.com/v3/space/genres?region=br&per_page=1000&platform=web", "getgeneros", "")
+		addDir("Destaques"  , "http://api.tunigo.com/v3/space/featured-playlists?region=br&page=0&per_page=50&dt="+dTT+"%3A00&platform=web", "getplaylists", "")
+		addDir("Lançamentos", "http://api.tunigo.com/v3/space/new-releases?region=br&page=0&per_page=500&platform=web", "getlancamentos", "")
+		if forceVisu : setViewMenu()
+		
+def getGeneros(url):
+		conteudo = opener.open(url).read()
+		conteudo = json.loads(conteudo)
+		gens = conteudo['items']
+		for gen in gens:
+				idG = gen['genre']['templateName']
+				
+				try    : imgG = gen['genre']['iconImageUrl']
+				except : imgG = ""
+				
+				titG = gen['genre']['name'].encode('utf-8')
+				
+				if titG.strip().lower() != "top lists":
+						addDir(titG, "http://api.tunigo.com/v3/space/"+idG+"?region=br&page=0&per_page=100&platform=web", "getplaylists", imgG)
+						
+		if forceVisu : setViewGens()
+		
+def getPlaylists(url):
+		conteudo = opener.open(url).read()
+		conteudo = json.loads(conteudo)
+		
+		plists = conteudo['items']
+		
+		for pl in plists:
+				urlP = pl['playlist']['uri'].encode('utf-8')
+				
+				try    : imgP = "http://d3rt1990lpmkn.cloudfront.net/300/"+pl['playlist']['image']
+				except : imgP = ""
+				
+				titP  = pl['playlist']['title'].encode('utf-8')
+				descP = pl['playlist']['description'].encode('utf-8')
+				
+				addAutoPlayDir(titP, urlP, "getvideos", imgP, descP, "browse")
+				
+		pp    = re.compile('page=(.+?)&per_page=(.+?)&', re.DOTALL).findall(url)
+		cPage = int(pp[0][0])
+		pPage = int(pp[0][1])
+		nPage = cPage+1
+		
+		if nPage*pPage < conteudo['totalItems']:
+				addDir('Próxima Página >>>', url.replace("page="+str(cPage),"page="+str(nPage)), "getplaylists", "")
+		
+		if forceVisu : setViewPlst()
+def getLancamentos(url):
+		conteudo = opener.open(url).read()
+		conteudo = json.loads(conteudo)
+		
+		plists = conteudo['items']
+		
+		for pl in plists:
+				urlP = pl['release']['uri'].encode('utf-8')
+				
+				try    : imgP = "http://d3rt1990lpmkn.cloudfront.net/300/"+pl['release']['image']
+				except : imgP = ""
+				
+				albP  = pl['release']['albumName'].encode('utf-8')
+				artP  = pl['release']['artistName'].encode('utf-8')
+				titP = artP + ' -' + albP
+				
+				addAutoPlayDir(titP, urlP, "getvideos", imgP, "", "browse")
+				
+		pp    = re.compile('page=(.+?)&per_page=(.+?)&', re.DOTALL).findall(url)
+		cPage = int(pp[0][0])
+		pPage = int(pp[0][1])
+		nPage = cPage+1
+		
+		if nPage*pPage < conteudo['totalItems']:
+				addDir('Próxima Página >>>', url.replace("page="+str(cPage),"page="+str(nPage)), "getplaylists", "")
+		
+		if forceVisu : setViewPlst()
+
+def generate_token():
+        credentials = SpotifyClientCredentials(client_id='4fe3fecfe5334023a1472516cc99d805', client_secret='0f02b7c483c04257984695007a4a8d5c')
+        token = credentials.get_access_token()
+        return spotipy.Spotify(auth=token)
+
+def getVideos(type, url, limit):
+		if type == "play":
+				musicVideos = []
+				playlist = xbmc.PlayList(xbmc.PLAYLIST_VIDEO)
+				playlist.clear()
+		spotify = generate_token()
+		username = url.split(':')[2]
+		playList_id = url.split(':')[4]
+		playlist = spotify.user_playlist(user=username, playlist_id=playList_id)["tracks"]["items"]
+		lenght = len(playlist)
+		pos = 1
+		for i in range(lenght):
+				artista = playlist[i]['track']['album']['artists'][0]['name'].encode('utf-8')
+
+				titulo = playlist[i]['track']['name'].encode('utf-8')
+
+				titV = doLimpa(artista + " - " + titulo)
+
+				try    : imgV = playlist[i]['track']['album']['images'][0]['url']
+				except : imgV = ""
+				
+				filtro = False
+				
+				for entry2 in blacklist:
+						if entry2.strip().lower() and entry2.strip().lower() in titV.lower():
+								filtro = True
+								
+				if filtro : continue
+				
+				if type=="browse" : addLink(titV, titV.replace(" - ", " "), "playvideo", imgV)
+				else:
+						urlV = "plugin://"+addonID+"/?url="+urllib.quote_plus(titV.replace(" - ", " "))+"&mode=playvideo"
+						
+						musicVideos.append([titV, urlV, imgV])
+						
+						if limit and int(limit)==pos : break
+						
+						pos += 1
+						
+		if type=="browse":
+				if forceVisu : setViewPlst()
+		else:
+				random.shuffle(musicVideos)
+				
+				for t, u, i in musicVideos:
+						listitem = xbmcgui.ListItem(t, thumbnailImage=i)
+						playlist.add(u, listitem)
+						
+				xbmc.Player().play(playlist)
+def playVideo(title):
+    try:
+				ytID = getYTID(title)
+				
+				url = ytAddonURL + ytID
+				
+				listitem = xbmcgui.ListItem(path=url)
+				
+				xbmcplugin.setResolvedUrl(int(sys.argv[1]), True, listitem)
+				
+				if infoEnabled : showInfo()
+    except:
+        pass
+def getYTID(title):
+		titYT  = urllib.quote_plus(title.lower())
+		urlYT  = "https://www.googleapis.com/youtube/v3/search?part=snippet&max-results=1&order=relevance&q=%s&key=%s" % (titYT, ytApiKey)
+		contYT = opener.open(urlYT).read()
+		ytID   = re.findall('"videoId": "(.*?)"',contYT,re.S)[0]
+		return ytID
+def queueVideo(url, name):
+		playlist = xbmc.PlayList(xbmc.PLAYLIST_VIDEO)
+		listitem = xbmcgui.ListItem(name)
+		playlist.add(url, listitem)        
+def showInfo():
+    count = 0
+		
+    while not xbmc.Player().isPlaying():
+        xbmc.sleep(200)
+				
+        if count == 50 : break
+				
+        count += 1
+				
+    xbmc.sleep(infoDelay*1000)
+		
+    if infoType == "0":
+        xbmc.executebuiltin('XBMC.ActivateWindow(12901)')
+        xbmc.sleep(infoDuration*1000)
+        xbmc.executebuiltin('XBMC.ActivateWindow(12005)')
+				
+    elif infoType == "1":
+        siTit = 'Tocando Agora:'
+        siVid = xbmc.getInfoLabel('VideoPlayer.Title').replace(","," ")
+        siImg = xbmc.getInfoImage('VideoPlayer.Cover')
+				
+        xbmc.executebuiltin('XBMC.Notification(%s, %s, %s, %s)' % (siTit, siVid, infoDuration*1000, siImg))
+def doLimpa(title):
+    title = title.replace("&lt;", "<").replace("&gt;", ">").replace("&amp;", "&").replace("&#39;", "'").replace("&#039;", "'").replace("&quot;", "\"").replace("&szlig;", "ß").replace("&ndash;", "-")
+    title = title.replace("&Auml;", "Ä").replace("&Uuml;", "Ü").replace("&Ouml;", "Ö").replace("&auml;", "ä").replace("&uuml;", "ü").replace("&ouml;", "ö")
+    title = title.strip()
+    return title
+		
+def setViewMenu() :
+		opcao = addon.getSetting('menuVisu')
+		
+		if   opcao == '0': xbmc.executebuiltin("Container.SetViewMode(50)")
+		elif opcao == '1': xbmc.executebuiltin("Container.SetViewMode(51)")
+		elif opcao == '2': xbmc.executebuiltin("Container.SetViewMode(500)")
+		
+def setViewGens() :
+		opcao = addon.getSetting('gensVisu')
+		
+		if   opcao == '0': xbmc.executebuiltin("Container.SetViewMode(50)")
+		elif opcao == '1': xbmc.executebuiltin("Container.SetViewMode(51)")
+		elif opcao == '2': xbmc.executebuiltin("Container.SetViewMode(500)")
+		
+def setViewPlst() :
+		opcao = addon.getSetting('plstVisu')
+		if   opcao == '0': xbmc.executebuiltin("Container.SetViewMode(50)")
+		elif opcao == '1': xbmc.executebuiltin("Container.SetViewMode(51)")
+		elif opcao == '2': xbmc.executebuiltin("Container.SetViewMode(500)")
+		
+def addLink(name, url, mode, iconimage):
+		u   = sys.argv[0]+"?url="+urllib.quote_plus(url)+"&mode="+str(mode)
+		ok  = True
+		liz = xbmcgui.ListItem(name, iconImage=iconsp, thumbnailImage=iconimage)
+		liz.setInfo(type="Video", infoLabels={"Title": name})
+		liz.setProperty('fanart_image', fanart)
+		liz.setProperty('IsPlayable', 'true')
+		ok = xbmcplugin.addDirectoryItem(handle=int(sys.argv[1]), url=u, listitem=liz)
+		return ok
+def addDir(name, url, mode, iconimage="", description="", type="", limit=""):
+		u   = sys.argv[0]+"?url="+urllib.quote_plus(url)+"&mode="+str(mode)+"&type="+str(type)+"&limit="+str(limit)
+		ok  = True
+		liz = xbmcgui.ListItem(name, iconImage=iconsp, thumbnailImage=iconimage)
+		
+		liz.setProperty('fanart_image', fanart)
+		liz.setInfo(type="Video", infoLabels={"Title": name, "Plot": description})
+		
+		ok = xbmcplugin.addDirectoryItem(handle=int(sys.argv[1]), url=u, listitem=liz, isFolder=True)
+		
+		return ok
+def addAutoPlayDir(name, url, mode, iconimage="", description="", type="", limit=""):
+		u   = sys.argv[0]+"?url="+urllib.quote_plus(url)+"&mode="+str(mode)+"&type="+str(type)+"&limit="+str(limit)
+		ok  = True
+		liz = xbmcgui.ListItem(name, iconImage=iconsp, thumbnailImage=iconimage)
+		
+		liz.setProperty('fanart_image', fanart)
+		liz.setInfo(type="Video", infoLabels={"Title": name, "Plot": description})
+		
+		entries = []
+		entries.append(("Autoplay Todos", 'RunPlugin(plugin://'+addonID+'/?mode='+str(mode)+'&url='+urllib.quote_plus(url)+'&type=play&limit=)',))
+		
+		liz.addContextMenuItems(entries)
+		ok = xbmcplugin.addDirectoryItem(handle=int(sys.argv[1]), url=u, listitem=liz, isFolder=True)
+		return ok
+		
+def getParams(parameters):
+		paramDict = {}
+		if parameters : 
+				paramPairs = parameters[1:].split("&")
+				
+				for paramsPair in paramPairs:
+						paramSplits = paramsPair.split('=')
+						
+						if (len(paramSplits)) == 2 : paramDict[paramSplits[0]] = paramSplits[1]
+						
+		return paramDict
+params    = getParams(sys.argv[2])
+mode      = urllib.unquote_plus(params.get('mode', ''))
+url       = urllib.unquote_plus(params.get('url', ''))
+name      = urllib.unquote_plus(params.get('name', ''))
+iconimage = urllib.unquote_plus(params.get('iconimage', ''))
+type      = urllib.unquote_plus(params.get('type', ''))
+limit     = urllib.unquote_plus(params.get('limit', ''))
+if   mode == ''               : menu()
+elif mode == 'getgeneros'     : getGeneros(url)
+elif mode == 'getplaylists'   : getPlaylists(url)
+elif mode == 'getlancamentos' : getLancamentos(url)
+elif mode == 'getvideos'      : getVideos(type, url, limit)
+elif mode == 'playvideo'      : playVideo(url)
+elif mode == 'queueVideo'     : queueVideo(url, name)
+    
+xbmcplugin.endOfDirectory(int(sys.argv[1]))
